@@ -1,0 +1,5 @@
+{
+  "name": "flutter-dev",
+  "version": "0.1.0",
+  "description": "Flutter: тести на Cubit і автоформатування .dart після кожного редагування"
+}

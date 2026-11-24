@@ -1,0 +1,11 @@
+{
+  "name": "ai-toolkit",
+  "owner": { "name": "David" },
+  "plugins": [
+    {
+      "name": "flutter-dev",
+      "source": "./plugins/flutter-dev",
+      "description": "Flutter: тести на Cubit і автоформатування .dart після кожного редагування"
+    }
+  ]
+}
